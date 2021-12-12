@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
+
+.body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #f0f4ef;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y: hidden;
+}
+
+.h1 {
+    font-family: 'Bakbak One', cursive;
+    color: #344966;
+    font-size: 40px;
+}
